@@ -1,1 +1,1 @@
-MUSIC_algorithm
+Matlab implementation of the MUSIC Algorithm
